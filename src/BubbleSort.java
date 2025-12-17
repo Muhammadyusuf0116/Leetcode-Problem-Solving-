@@ -19,6 +19,7 @@ public class BubbleSort {
                         break;
                     }
                 }
+
                 System.out.println(count);
 
                 System.out.print("Bubble Sorted: ");
